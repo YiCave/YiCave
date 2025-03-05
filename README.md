@@ -4,7 +4,7 @@
 - 📫 How to reach me: choonyikeith@gmail.com 
 - ⚡ Fun fact: I'm from Kuala Lumpur. KL one better
 
-Achievements:
+Academics:
 CGPA 3.91
 
 Competitions:
