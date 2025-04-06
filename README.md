@@ -10,3 +10,4 @@ CGPA 3.91
 Competitions:
 1. UM Internal Hackathon - Participation
 2. i-UM Disrupt (AI development) - Ongoing
+3. UM Hackathon 2025 - Ongoing
