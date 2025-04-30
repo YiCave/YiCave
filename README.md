@@ -11,7 +11,7 @@ CGPA 3.91
 ## Techs:
 Programming Language- Java, Python(with Jupyter Notebook)
 Machine Learning Model- HMM, Regressions
-Low/No Code- HTML
+Low/No Code- HTML,Coze
 
 ## Competitions:
 1. UM Internal Hackathon - Participation
