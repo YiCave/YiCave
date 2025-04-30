@@ -5,15 +5,15 @@
 - ⚡ Fun fact: I'm from Kuala Lumpur. KL one better
 - ✈️ Low-key waiting for exchange opportunities
 
-*Academics:
+##Academics:
 CGPA 3.91
 
-*Techs:
+##Techs:
 Programming Language- Java, Python(with Jupyter Notebook)
 Machine Learning Model- HMM, Regressions
 Low/No Code- HTML
 
-Competitions:
+##Competitions:
 1. UM Internal Hackathon - Participation
 2. UM Hackathon 2025 - 3rd place
 3. i-UM Disrupt (AI development) - Ongoing
