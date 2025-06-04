@@ -27,8 +27,8 @@
 ## 🏆 Competitions
 - 🛠️ *UM Internal Hackathon* — Participant  
 - 🥉 *UM Hackathon 2025* — 3rd Place  
-- 🤖 *i-UM Disrupt (AI Development)* — Ongoing
-- 🤖 ELLM startup competition - Ongoing
+- 🤖 *i-UM Disrupt (AI Development)* — Ended
+- 🤖 ELLM startup competition - Finalist
 
 ---
 
