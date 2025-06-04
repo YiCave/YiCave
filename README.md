@@ -13,7 +13,6 @@
 ## 💻 Tech Stack
 **Programming Languages:**  
 - Java  
-- JavaScript  
 - Python (with Jupyter Notebook)  
 
 **Machine Learning:**  
@@ -21,7 +20,7 @@
 - Regression models  
 
 **Low/No Code Tools:**  
-- HTML  
+- HTML
 - Coze  
 - N8N  
 
