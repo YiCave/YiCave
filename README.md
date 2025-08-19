@@ -25,7 +25,8 @@
 - 🛠️ *UM Internal Hackathon* — Participant  
 - 🥉 *UM Hackathon 2025* — 3rd Place  
 - 🤖 *ELLM startup competition* - Finalist
-- 🤖 *DevMatch APU 2025* - 1st Place(Best On Chain Marketplace)
+- 🤖 *DevMatch APU 2025 - SUI Track* - 1st Place(Best On Chain Marketplace)
+- 🤖 *DevMatch APU 2025 - BGA Track* - Participant
 - 🤖 *ASEAN Innovation Quest Sunway* - Ongoing
 
 ## 🏆 Non-Technical Competitions
