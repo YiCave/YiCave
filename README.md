@@ -7,9 +7,6 @@
 - 📍 Based in Kuala Lumpur — KL one better 🇲🇾  
 - 📫 Reach me at: **choonyikeith@gmail.com**
 
-## 🎓 Academics
-- **CGPA:** 3.91
-
 ## 💻 Tech Stack
 **Programming Languages:**  
 - Java  
@@ -24,12 +21,18 @@
 - Coze  
 - N8N  
 
-## 🏆 Competitions
+## 🏆 Technical Competitions
 - 🛠️ *UM Internal Hackathon* — Participant  
 - 🥉 *UM Hackathon 2025* — 3rd Place  
-- 🤖 *i-UM Disrupt (AI Development)* — Ended
-- 🤖 ELLM startup competition - Finalist
+- 🤖 *ELLM startup competition* - Finalist
+- 🤖 *DevMatch APU 2025* - 1st Place(Best On Chain Marketplace)
+- 🤖 *ASEAN Innovation Quest Sunway* - Ongoing
 
+## 🏆 Non-Technical Competitions
+-  *3x Best Speaker in Toastmaster*
+-  *Humorous Speech and Table Topics Competition* - 3rd Place
+-  *Ignite 2025* - Participant
+-  *AMEU Stock Pitch* - Ongoing
 ---
 
 > *“Code with purpose, debug with patience, and dream with ambition.”*
