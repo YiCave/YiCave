@@ -43,6 +43,13 @@
 | Ignite 2025 | Participant |
 | AMEU Stock Pitch | Participant |
 
+## Group Projects
+| Year | Course | Repository |
+|------|--------|------------|
+|  1   | Fundamentals of Programming | https://github.com/YiCave/Transaction-Ledger-System |
+|  1   | Machine Learning | |
+
+
 ---
 
 > *“Code with purpose, debug with patience, and dream with ambition.”*
