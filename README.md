@@ -28,7 +28,7 @@
 |-------------|--------|------------|
 | UM Internal Hackathon | Participant | [Repo](#) |
 | UM Hackathon 2025 | 🥉 3rd Place | https://github.com/ngai123/UMhackathon-RojakUni- |
-| ELLM Startup Competition | Finalist | [Repo](#) |
+| ELLM Startup Competition | Finalist | https://github.com/matt0757/ELLM-Rojak-Uni |
 | DevMatch APU 2025 – SUI Track | 🏆 1st Place (Best On-Chain Marketplace) | [Repo](#) |
 | DevMatch APU 2025 – BGA Track | Participant | [Repo](#) |
 | ASEAN Innovation Quest Sunway | Ongoing | [Repo](#) |
