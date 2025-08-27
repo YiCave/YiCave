@@ -54,6 +54,11 @@
 |  1   | Fundamentals of Programming | https://github.com/YiCave/Transaction-Ledger-System |
 |  1   | Machine Learning | https://github.com/YiCave/Ridership-HMM-Prediction |
 
+## Startup Project
+Currently working on a **private startup project**, blending my skills in developing comprehensive solutions  
+*More details coming soon…* 👀  
+
+
 
 ---
 
