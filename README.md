@@ -29,8 +29,8 @@
 | UM Internal Hackathon | Participant | [Repo](#) |
 | UM Hackathon 2025 | 🥉 3rd Place | https://github.com/ngai123/UMhackathon-RojakUni- |
 | ELLM Startup Competition | Finalist | https://github.com/matt0757/ELLM-Rojak-Uni |
-| DevMatch APU 2025 – SUI Track | 🏆 1st Place (Best On-Chain Marketplace) | [Repo](#) |
-| DevMatch APU 2025 – BGA Track | Participant | [Repo](#) |
+| DevMatch APU 2025 – SUI Track | 🏆 1st Place (Best On-Chain Marketplace) | https://github.com/YiCave/hokkien-mee-is-red-and-black|
+| DevMatch APU 2025 – BGA Track | Participant | https://github.com/YiCave/hokkien-mee-is-red-and-black |
 | ASEAN Innovation Quest Sunway | Ongoing | [Repo](#) |
 
 ### Non-Technical
