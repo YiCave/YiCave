@@ -14,12 +14,14 @@
 
 **Machine Learning:**  
 - Hidden Markov Models (HMM)  
-- Regression models  
+- Genetic Algorithms(GA)
+- Agentic System
 
 **Low/No Code Tools:**  
-- HTML  
-- Coze  
-- N8N  
+- Git  
+- React Basics
+- N8N
+- Langchain
 
 ## 🏆 Competitions
 
@@ -39,7 +41,7 @@
 | Toastmasters – Best Speaker | 🏅 3x Winner |
 | Humorous Speech & Table Topics | 🥉 3rd Place |
 | Ignite 2025 | Participant |
-| AMEU Stock Pitch | Ongoing |
+| AMEU Stock Pitch | Participant |
 
 ---
 
