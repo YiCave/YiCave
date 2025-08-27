@@ -32,13 +32,14 @@
 ### Technical
 | Competition | Result | Repository |
 |-------------|--------|------------|
-| UM Internal Hackathon 2024| Participant | [Repo](#) |
+| UM Internal Hackathon 2024| Participant | Private Repository |
 | UM Hackathon 2025 | 🥉 3rd Place | https://github.com/ngai123/UMhackathon-RojakUni- |
 | ELLM Startup Competition | Finalist | https://github.com/matt0757/ELLM-Rojak-Uni |
 | DevMatch APU 2025 – SUI Track | 🏆 1st Place (Best On-Chain Marketplace) | https://github.com/YiCave/hokkien-mee-is-red-and-black|
 | DevMatch APU 2025 – BGA Track | Participant | https://github.com/YiCave/hokkien-mee-is-red-and-black |
-| ASEAN Innovation Quest Sunway | Ongoing | [Repo](#) |
-| Future Ready Hackathon | Ongoing | [Repo](#) |
+| ASEAN Innovation Quest Sunway | Ongoing | https://github.com/YiCave/ARC-v1 |
+| ARC AGI II | Ongoing | Private Repository |
+| Future Ready Hackathon | Ongoing | Private Repository |
 
 ### Non-Technical
 | Competition | Result |
