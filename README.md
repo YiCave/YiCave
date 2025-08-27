@@ -6,6 +6,7 @@
 - Always on the lookout for exciting exchange opportunities ✈️  
 - 📍 Based in Kuala Lumpur — KL one better 🇲🇾  
 - 📫 Reach me at: **choonyikeith@gmail.com**
+- Open to Connect
 
 ## 💻 Tech Stack
 **Programming Languages:**  
@@ -47,7 +48,7 @@
 | Year | Course | Repository |
 |------|--------|------------|
 |  1   | Fundamentals of Programming | https://github.com/YiCave/Transaction-Ledger-System |
-|  1   | Machine Learning | |
+|  1   | Machine Learning | https://github.com/YiCave/Ridership-HMM-Prediction |
 
 
 ---
