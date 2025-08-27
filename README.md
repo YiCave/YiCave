@@ -17,23 +17,30 @@
 - Regression models  
 
 **Low/No Code Tools:**  
-- HTML
+- HTML  
 - Coze  
 - N8N  
 
-## 🏆 Technical Competitions
-- 🛠️ *UM Internal Hackathon* — Participant  
-- 🥉 *UM Hackathon 2025* — 3rd Place  
-- 🤖 *ELLM startup competition* - Finalist
-- 🤖 *DevMatch APU 2025 - SUI Track* - 1st Place(Best On Chain Marketplace)
-- 🤖 *DevMatch APU 2025 - BGA Track* - Participant
-- 🤖 *ASEAN Innovation Quest Sunway* - Ongoing
+## 🏆 Competitions
 
-## 🏆 Non-Technical Competitions
--  *3x Best Speaker in Toastmaster*
--  *Humorous Speech and Table Topics Competition* - 3rd Place
--  *Ignite 2025* - Participant
--  *AMEU Stock Pitch* - Ongoing
+### Technical
+| Competition | Result | Repository |
+|-------------|--------|------------|
+| UM Internal Hackathon | Participant | [Repo](#) |
+| UM Hackathon 2025 | 🥉 3rd Place | [Repo](#) |
+| ELLM Startup Competition | Finalist | [Repo](#) |
+| DevMatch APU 2025 – SUI Track | 🏆 1st Place (Best On-Chain Marketplace) | [Repo](#) |
+| DevMatch APU 2025 – BGA Track | Participant | [Repo](#) |
+| ASEAN Innovation Quest Sunway | Ongoing | [Repo](#) |
+
+### Non-Technical
+| Competition | Result |
+|-------------|--------|
+| Toastmasters – Best Speaker | 🏅 3x Winner |
+| Humorous Speech & Table Topics | 🥉 3rd Place |
+| Ignite 2025 | Participant |
+| AMEU Stock Pitch | Ongoing |
+
 ---
 
 > *“Code with purpose, debug with patience, and dream with ambition.”*
