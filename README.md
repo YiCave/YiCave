@@ -24,12 +24,8 @@
 - N8N
 - Langchain
 
-## 📈 GitHub Stats
-![YiCave's GitHub stats](https://github-readme-stats.vercel.app/api?username=YiCave&show_icons=true&theme=tokyonight)  
-
+## 📈 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiCave&layout=compact&theme=tokyonight)  
-
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=YiCave&theme=tokyonight)
 
 ## 🏆 Competitions
 
