@@ -46,7 +46,7 @@
 |-------------|--------|
 | Toastmasters – Best Speaker | 🏅 3x Winner |
 | Humorous Speech & Table Topics | 🥉 3rd Place |
-| Ignite 2025 | Participant |
+| Ignite Idea Pitch 2025 | Participant |
 | AMEU Stock Pitch | Participant |
 
 ## Group Projects
