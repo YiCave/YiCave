@@ -38,8 +38,9 @@
 | DevMatch APU 2025 – SUI Track | 🏆 1st Place (Best On-Chain Marketplace) | https://github.com/YiCave/hokkien-mee-is-red-and-black|
 | DevMatch APU 2025 – BGA Track | Participant | https://github.com/YiCave/hokkien-mee-is-red-and-black |
 | ASEAN Innovation Quest Sunway | Ongoing | https://github.com/YiCave/ARC-v1 |
+| Future Ready Hackathon | Ongoing | [Private Repository](https://github.com/YiCave/bos_solution) |
 | ARC AGI II | Ongoing | Private Repository |
-| Future Ready Hackathon | Ongoing | Private Repository |
+| Loreal Datathon 2025 | Ongoing | Private Repository |
 
 ### Non-Technical
 | Competition | Result |
