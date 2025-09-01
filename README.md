@@ -33,12 +33,12 @@
 | Competition | Result | Repository |
 |-------------|--------|------------|
 | UM Internal Hackathon 2024| Participant | Private Repository |
-| UM Hackathon 2025 | 🥉 3rd Place | https://github.com/ngai123/UMhackathon-RojakUni- |
-| ELLM Startup Competition | Finalist | https://github.com/matt0757/ELLM-Rojak-Uni |
-| DevMatch APU 2025 – SUI Track | 🏆 1st Place (Best On-Chain Marketplace) | https://github.com/YiCave/hokkien-mee-is-red-and-black|
-| DevMatch APU 2025 – BGA Track | Participant | https://github.com/YiCave/hokkien-mee-is-red-and-black |
-| ASEAN Innovation Quest Sunway | Ongoing | https://github.com/YiCave/ARC-v1 |
-| Future Ready Hackathon | Ongoing | [Private Repository](https://github.com/YiCave/bos_solution) |
+| UM Hackathon 2025 | 🥉 3rd Place | [Automated Trading Machine](https://github.com/ngai123/UMhackathon-RojakUni-) |
+| ELLM Startup Competition | Finalist | [CareMore](https://github.com/matt0757/ELLM-Rojak-Uni) |
+| DevMatch APU 2025 – SUI Track | 🏆 1st Place (Best On-Chain Marketplace) | [FraudGuard](https://github.com/YiCave/hokkien-mee-is-red-and-black) |
+| DevMatch APU 2025 – BGA Track | Participant | [FraudGuard](https://github.com/YiCave/hokkien-mee-is-red-and-black) |
+| ASEAN Innovation Quest Sunway | Ongoing |  [ARC](https://github.com/YiCave/ARC-v1) |
+| Future Ready Hackathon | Ongoing | [Bos Solution](https://github.com/YiCave/bos_solution) |
 | ARC AGI II | Ongoing | Private Repository |
 | Loreal Datathon 2025 | Ongoing | Private Repository |
 
@@ -53,8 +53,8 @@
 ## Group Projects
 | Year | Course | Repository |
 |------|--------|------------|
-|  1   | Fundamentals of Programming | https://github.com/YiCave/Transaction-Ledger-System |
-|  1   | Machine Learning | https://github.com/YiCave/Ridership-HMM-Prediction |
+|  1   | Fundamentals of Programming | [Transaction Ledger System](https://github.com/YiCave/Transaction-Ledger-System) |
+|  1   | Machine Learning | [Hidden Markov Model RiderShip Prediction](https://github.com/YiCave/Ridership-HMM-Prediction) |
 
 ## Startup Project
 Currently working on a **private startup project**, blending my skills in developing comprehensive solutions  
