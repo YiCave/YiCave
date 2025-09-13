@@ -40,7 +40,7 @@
 | ASEAN Innovation Quest Sunway | Participant |  [ARC](https://github.com/YiCave/ARC-v1) |
 | Future Ready Hackathon | Ongoing | [Bos Solution](https://github.com/YiCave/bos_solution) |
 | ARC AGI II | Ongoing | Private Repository |
-| Loreal Datathon 2025 | Ongoing | Private Repository |
+| Loreal Datathon 2025 | Ongoing | [LoreAI](https://github.com/YiCave/LOREAL) [Website](https://loreal-red.vercel.app/)|
 
 ### Non-Technical
 | Competition | Result |
