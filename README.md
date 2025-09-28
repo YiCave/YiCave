@@ -11,7 +11,8 @@
 ## 💻 Tech Stack
 **Programming Languages:**  
 - Java  
-- Python (with Jupyter Notebook)  
+- Python (with Jupyter Notebook)
+- JavaScript
 
 **Machine Learning:**  
 - Hidden Markov Models (HMM)  
@@ -38,7 +39,7 @@
 | DevMatch APU 2025 – SUI Track | 🏆 1st Place (Best On-Chain Marketplace) | [FraudGuard](https://github.com/YiCave/hokkien-mee-is-red-and-black) |
 | DevMatch APU 2025 – BGA Track | Participant | [FraudGuard](https://github.com/YiCave/hokkien-mee-is-red-and-black) |
 | ASEAN Innovation Quest Sunway | Participant |  [ARC](https://github.com/YiCave/ARC-v1) |
-| Future Ready Hackathon | Ongoing | [Bos Solution](https://github.com/YiCave/bos_solution) |
+| Future Ready Hackathon | 🥈2nd Place | [Bos Solution](https://github.com/YiCave/bos_solution) |
 | ARC AGI II | Ongoing | Private Repository |
 | Loreal Datathon 2025 | Ongoing | [LoreAI](https://github.com/YiCave/LOREAL) [Website](https://loreal-red.vercel.app/)|
 
