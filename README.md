@@ -50,6 +50,7 @@
 | Humorous Speech & Table Topics | 🥉 3rd Place |
 | Ignite Idea Pitch 2025 | Participant |
 | AMEU Stock Pitch | Participant |
+| EY Tech Challenge 2025 | Ongoing |
 
 ## Group Projects
 | Year | Course | Repository |
