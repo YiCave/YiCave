@@ -41,7 +41,10 @@
 | ASEAN Innovation Quest Sunway | Participant |  [ARC](https://github.com/YiCave/ARC-v1) |
 | Future Ready Hackathon | 🥈2nd Place | [Bos Solution](https://github.com/YiCave/bos_solution) |
 | ARC AGI II | Ongoing | Private Repository |
-| Loreal Datathon 2025 | Ongoing | [LoreAI](https://github.com/YiCave/LOREAL) [Website](https://loreal-red.vercel.app/)|
+| Loreal Datathon 2025 | Participant | [LoreAI](https://github.com/YiCave/LOREAL) [Website](https://loreal-red.vercel.app/)|
+| EY Tech Challenge 2025 | Ongoing | Private Repository |
+| UMPSA Huawei Hackathon | Ongoing | Private Repository |
+| Kabel Hackathon 2025 | Ongoing | Private Repository |
 
 ### Non-Technical
 | Competition | Result |
@@ -50,7 +53,7 @@
 | Humorous Speech & Table Topics | 🥉 3rd Place |
 | Ignite Idea Pitch 2025 | Participant |
 | AMEU Stock Pitch | Participant |
-| EY Tech Challenge 2025 | Ongoing |
+
 
 ## Group Projects
 | Year | Course | Repository |
