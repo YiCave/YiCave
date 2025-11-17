@@ -33,18 +33,19 @@
 ### Technical
 | Competition | Result | Repository |
 |-------------|--------|------------|
-| UM Internal Hackathon 2024| Participant | Private Repository |
-| UM Hackathon 2025 | 🥉 3rd Place | [Automated Trading Machine](https://github.com/ngai123/UMhackathon-RojakUni-) |
-| ELLM Startup Competition | Finalist | [CareMore](https://github.com/matt0757/ELLM-Rojak-Uni) |
 | DevMatch APU 2025 – SUI Track | 🏆 1st Place (Best On-Chain Marketplace) | [FraudGuard](https://github.com/YiCave/hokkien-mee-is-red-and-black) |
+| Kabel Hackathon 2025 | 🏆 1st Place | Private Repository |
+| Future Ready Hackathon | 🥈2nd Place | [Bos Solution](https://github.com/YiCave/bos_solution) |
+| UM Hackathon 2025 | 🥉 3rd Place | [Automated Trading Machine](https://github.com/ngai123/UMhackathon-RojakUni-) |
+| ELLM Startup Competition | 🎉 Finalist | [CareMore](https://github.com/matt0757/ELLM-Rojak-Uni) |
+| UM Internal Hackathon 2024| Participant | Private Repository |
 | DevMatch APU 2025 – BGA Track | Participant | [FraudGuard](https://github.com/YiCave/hokkien-mee-is-red-and-black) |
 | ASEAN Innovation Quest Sunway | Participant |  [ARC](https://github.com/YiCave/ARC-v1) |
-| Future Ready Hackathon | 🥈2nd Place | [Bos Solution](https://github.com/YiCave/bos_solution) |
 | ARC AGI II | Ongoing | Private Repository |
 | Loreal Datathon 2025 | Participant | [LoreAI](https://github.com/YiCave/LOREAL) [Website](https://loreal-red.vercel.app/)|
 | EY Tech Challenge 2025 | Ongoing | Private Repository |
-| UMPSA Huawei Hackathon | Ongoing | Private Repository |
-| Kabel Hackathon 2025 | Ongoing | Private Repository |
+| UMPSA Huawei Hackathon | Participant | Private Repository |
+
 
 ### Non-Technical
 | Competition | Result |
