@@ -42,6 +42,9 @@
 | Loreal Datathon 2025 | Participant | [LoreAI](https://github.com/YiCave/LOREAL) [Website](https://loreal-red.vercel.app/)|
 | EY Tech Challenge 2025 | Ongoing | Private Repository |
 | UMPSA Huawei Hackathon | Participant | Private Repository |
+| UMHackathon 2026 | Participant | [Boss Decision](https://github.com/YiCave/boss_decision) |
+| TNGD Finhack 2026 | Participant | [Agentic Graph Fraud Detection System]([https://github.com/Marcusng88/](https://github.com/LIMJIALIH/FinHack2026-HokkienMeeIsRedAndBlack)) |
+
 
 
 ### Non-Technical
